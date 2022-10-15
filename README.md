@@ -1,5 +1,5 @@
 # SudokuSolver
-This code can solve easy and medium-level sudoku puzzles. It doesn't work for harder levels. I'll need to sit and write the code for that sometime...
+This Python code can solve easy and medium-level sudoku puzzles. It doesn't work for harder levels. I'll need to sit and write the code for that sometime...
 
 For this solver, all you need to do is provide a CSV file that has the puzzle. The file should have numbers as they are listed in the sudoku puzzle.
 
